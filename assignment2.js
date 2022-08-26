@@ -11,7 +11,7 @@ app.use('/users', (req, res, next) => {
 app.use('/', (req, res, next) => {
     console.log("Hey, welcome to Manchester City");
     res.send('<h1>Welcome to Manchester City</h1>');
-    //next();
+    //next();8
 });
 
 app.listen(3000);
