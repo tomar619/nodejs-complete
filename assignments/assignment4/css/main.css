@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: teal;
+    color: blue;
+}
+
+main {
+    padding: 1rem;
+}
